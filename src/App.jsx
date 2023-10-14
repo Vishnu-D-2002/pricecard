@@ -39,7 +39,7 @@ function App({ PriceCard1, PriceCard2, PriceCard3 }) {
             </li>
           ))}
         </ul>
-        <button type="submit">BUTTON</button>
+        <button type="submit"><a href='#'>BUTTON</a></button>
       </div>
     </div>
   );
