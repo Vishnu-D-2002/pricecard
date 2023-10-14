@@ -37,7 +37,6 @@ button {
 }
 
 #container {
-    border: 2px solid black;
     background: linear-gradient(45deg,
                 rgb(50, 53, 232),
                 rgb(79, 143, 246))
