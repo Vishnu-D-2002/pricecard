@@ -4,6 +4,8 @@ import './App.css';
 
 function App({ PriceCard1, PriceCard2, PriceCard3 }) {
   return (
+    <>
+      <h1>React Price card</h1>
     <div id="container">
       <div id="first">
         <h6>FREE</h6>
@@ -41,7 +43,8 @@ function App({ PriceCard1, PriceCard2, PriceCard3 }) {
         </ul>
         <button type="submit"><a href='#'>BUTTON</a></button>
       </div>
-    </div>
+      </div>
+    </>
   );
 }
 
